@@ -9541,7 +9541,6 @@ footer {
   height: 500px;
   color: #fff;
   text-align: center;
-  margin-top: 68px;
   background-image: url(../img/banner-bg.jpeg);
   background-size: 100% auto;
   background-position: 100px left;
@@ -9556,6 +9555,7 @@ footer {
       height: 300px; } }
   .banner-section .banner-opacity {
     background: rgba(230, 162, 49, 0.5);
+    padding: 55px 0 0 0;
     width: 100%;
     height: 100%; }
     .banner-section .banner-opacity .container {
@@ -9567,12 +9567,12 @@ footer {
         -webkit-text-shadow: 3px 3px 2px #000; }
         @media screen and (max-width: 767px) {
           .banner-section .banner-opacity .container h3 {
-            font-size: 40px; } }
+            font-size: 37px; } }
       .banner-section .banner-opacity .container p {
         margin: 20px 10%; }
         @media screen and (max-width: 767px) {
           .banner-section .banner-opacity .container p {
-            margin: 15px 0; } }
+            margin: 10px 0; } }
 
 .today-special {
   background-image: url(../img/special-bg.jpeg);
