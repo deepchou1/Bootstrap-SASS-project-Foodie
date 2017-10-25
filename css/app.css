@@ -9542,7 +9542,7 @@ footer {
   color: #fff;
   text-align: center;
   margin-top: 68px;
-  background-image: url(/img/banner-bg.jpeg);
+  background-image: url(../img/banner-bg.jpeg);
   background-size: 100% auto;
   background-position: 100px left;
   background-repeat: no-repeat;
@@ -9575,7 +9575,7 @@ footer {
             margin: 15px 0; } }
 
 .today-special {
-  background-image: url(/img/special-bg.jpeg);
+  background-image: url(../img/special-bg.jpeg);
   background-size: 100% 100%;
   background-position: top left;
   background-repeat: no-repeat; }
@@ -9631,7 +9631,7 @@ footer {
   opacity: 1; }
 
 .amazing {
-  background-image: url(/img/amazing-bg.jpg);
+  background-image: url(../img/amazing-bg.jpg);
   background-size: 100% 100%;
   background-position: top left;
   background-repeat: no-repeat;
