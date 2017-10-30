@@ -9,8 +9,7 @@ var lastId,
       if (item.length) { return item; }
     });
 
-// Bind click handler to menu items
-// so we can get a fancy scroll animation
+// Bind click handler to menu items (so we can get a fancy scroll animation)
 menuItems.click(function(e){
   var href = $(this).attr("href"),
       offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight+1;
